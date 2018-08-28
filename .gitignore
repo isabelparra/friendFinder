@@ -4,3 +4,4 @@ node_modules/
 
 # Mac
 .DS_Storenode_modules
+npm-debug.log
