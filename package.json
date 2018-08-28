@@ -1,7 +1,7 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Matches users based on differences in scores",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
